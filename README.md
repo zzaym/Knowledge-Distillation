@@ -1,2 +1,2 @@
 # Knowledge-Distillation
-Insight and Implementation of "Distilling the Knowledge in a Neural Network" (Hinton, et al. 2015)
+This respository is the final project of Harvard AM207 "Stochastic Methods for Data Analysis, Inference and Optimization". The single juypter notebook file contains my insights and implementations of the paper "Distilling the Knowledge in a Neural Network". 
